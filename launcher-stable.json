@@ -1,8 +1,8 @@
 {
   "schema": "astrassil-launcher-stable/1",
   "game_version": "0.5.0-beta-fermee.0",
-  "label": "Astrassil Fighter · bêta fermée 0.5.0 · Invitations à un seul niveau",
+  "label": "Astrassil Fighter · alpha fermée 0.5.0",
   "game_url": "https://aberdeen-kansas-tour-lower.trycloudflare.com/jeu/",
-  "client_revision_sha256": "d2fb062a7a7ac284374f8966b3e89362ab1ee09b1b8f5511213798c5bdc0f953",
-  "published_at_utc": "2026-10-19T18:56:03Z"
+  "client_revision_sha256": "370f9ec3d56b2463d8de1dff40ac108f6be7187f833760cb62724f965c849f40",
+  "published_at_utc": "2026-10-19T21:25:33Z"
 }

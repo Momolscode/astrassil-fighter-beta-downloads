@@ -1,8 +1,8 @@
 {
   "schema": "astrassil-launcher-stable/1",
   "game_version": "0.5.0-beta-fermee.0",
-  "label": "Astrassil Fighter · bêta fermée 0.5.0 · Pilotes et Égide",
+  "label": "Astrassil Fighter · bêta fermée 0.5.0 · Espace bêta, titres et BO",
   "game_url": "https://aberdeen-kansas-tour-lower.trycloudflare.com/jeu/",
-  "client_revision_sha256": "e05f0cc9c345091d39e6f9855fedc33aa3d2f48e6ca8925eb6ca58b584c16018",
-  "published_at_utc": "2026-10-19T16:47:03Z"
+  "client_revision_sha256": "c4ef0a3a27c1900f13c9019b0c949c5386ff757c9ebf053456f42894f3ff65a3",
+  "published_at_utc": "2026-10-19T18:07:41Z"
 }

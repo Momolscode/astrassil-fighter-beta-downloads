@@ -5,7 +5,7 @@
     "url": "https://pay.qonto.com/payment-links/01a156e2-26b8-7ac6-94f5-4fab60e5120f?resource_id=01a156e2-26b9-7f29-9877-34b6ec502c74"
   },
   "oneTime": {
-    "enabled": false,
-    "url": null
+    "enabled": true,
+    "url": "https://pay.qonto.com/payment-links/01a156e3-6bdf-7150-bdf5-29bdb5661515?resource_id=01a156e3-6be5-72d4-af8f-a70d93831485"
   }
 }

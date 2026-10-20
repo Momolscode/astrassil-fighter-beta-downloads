@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "monthly": {
+    "enabled": false,
+    "url": null
+  },
+  "oneTime": {
+    "enabled": false,
+    "url": null
+  }
+}

@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Alpha fermée : les pages portent noindex,follow tant que l'ouverture éditoriale n'est pas décidée.
 Sitemap: https://momolscode.github.io/astrassil-fighter-beta-downloads/sitemap.xml

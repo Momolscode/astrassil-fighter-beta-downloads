@@ -1,0 +1,18 @@
+{
+  "schema": "astrassil-android-stable/1",
+  "packageId": "com.unum.astrassil",
+  "certificateSHA256": "10b204a2111deba2014ecd0268cadf50f3fcb4a7e2873acb44543dbb374209f5",
+  "versionCode": 18,
+  "versionName": "0.6.4-alpha-fermee.18",
+  "sha256": "a6db54270110e56bfb889689dec93c31c72c03961af2d0e403d1d2ff932eb8e3",
+  "size": 9571603,
+  "apkURL": "https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.4-code18/astrassil-fighter-0.6.4-alpha-fermee.18-code18-release-signe.apk",
+  "clientRevisionSHA256": "2b7cf0a7b3c4febfd783e281db82c321e19ed788ab24b9c2c266bd82d1bb4abf",
+  "requiresNativeUpdate": false,
+  "compatibleCodes": [
+    14,
+    17,
+    18
+  ],
+  "publishedAtUTC": "2026-10-21T22:11:46Z"
+}

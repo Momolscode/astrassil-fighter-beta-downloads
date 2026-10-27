@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="342" viewBox="0 0 1200 342" role="img" aria-labelledby="title desc">
+  <title id="title">Astrassil Fighter</title>
+  <desc id="desc">L’arcade céleste by The Saviors. Alpha fermée sur invitation. Une composition spatiale en bleu nuit, or et turquoise.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050a18"/><stop offset=".55" stop-color="#0b2130"/><stop offset="1" stop-color="#0c1124"/></linearGradient>
+    <linearGradient id="gold" x2=".8" y2="1"><stop stop-color="#fff2c1"/><stop offset=".45" stop-color="#ebc97d"/><stop offset="1" stop-color="#b58a3e"/></linearGradient>
+    <linearGradient id="teal" x2="1" y2="1"><stop stop-color="#b7ffeb"/><stop offset=".5" stop-color="#58ebcb"/><stop offset="1" stop-color="#0a786c"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#33d9bc" stop-opacity=".2"/><stop offset="1" stop-color="#33d9bc" stop-opacity="0"/></radialGradient>
+    <pattern id="stars" width="144" height="130" patternUnits="userSpaceOnUse"><circle cx="24" cy="23" r="1" fill="#d4fff1" opacity=".55"/><circle cx="106" cy="75" r=".8" fill="#e9d4a5" opacity=".55"/><circle cx="67" cy="116" r=".6" fill="#e0ecff" opacity=".35"/></pattern>
+  </defs>
+  <rect width="1200" height="342" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="342" rx="24" fill="url(#stars)"/>
+  <ellipse cx="982" cy="164" rx="345" ry="230" fill="url(#light)"/>
+  <path d="M701 342C819 198 965 47 1200 20" fill="none" stroke="#b7ffeb" stroke-opacity=".09"/>
+  <path d="M746 342C883 183 1047 129 1200 127" fill="none" stroke="#ebc97d" stroke-opacity=".13"/>
+  <path d="M883 342C983 268 1117 246 1200 252" fill="none" stroke="#b7ffeb" stroke-opacity=".12"/>
+  <g transform="translate(975 157)">
+    <circle r="108" fill="none" stroke="#ebc97d" stroke-opacity=".26"/>
+    <circle r="92" fill="none" stroke="#58ebcb" stroke-opacity=".12" stroke-dasharray="2 10"/>
+    <path d="M0-108V-122M0 108v14M-108 0h-14M108 0h14" fill="none" stroke="#ebc97d" stroke-opacity=".55"/>
+    <path d="M0-87 68 65 0 35-68 65Z" fill="#081c26" stroke="url(#gold)" stroke-width="3"/>
+    <path d="M0-69 24 34 0 14-24 34Z" fill="url(#teal)"/>
+    <path d="M-60 60-21 10 0-87 21 10 60 60M0 14V77" fill="none" stroke="url(#gold)" stroke-width="2"/>
+    <path d="M0-126 4-113 17-109 4-105 0-92-4-105-17-109-4-113Z" fill="url(#gold)"/>
+    <circle cx="83" cy="-68" r="3" fill="#a5ffe8"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="59" font-size="13" font-weight="700" letter-spacing="4" fill="#b2c5cd">L’ARCADE CÉLESTE BY THE SAVIORS</text>
+    <text x="56" y="145" font-size="76" font-weight="800" letter-spacing="5" fill="url(#gold)">ASTRASSIL</text>
+    <text x="61" y="187" font-size="24" letter-spacing="15" fill="#f3f5ec">FIGHTER</text>
+    <path d="M61 212H744" stroke="#edcf8c" stroke-opacity=".28"/>
+    <text x="61" y="251" font-size="21" fill="#d0e4e4">Une trajectoire. Des failles. Un ciel à rallumer.</text>
+    <rect x="61" y="277" width="277" height="31" rx="15.5" fill="#123a3c" stroke="#58ebcb" stroke-opacity=".4"/>
+    <circle cx="80" cy="292.5" r="3" fill="#7af5d5"/>
+    <text x="94" y="297" font-size="11" font-weight="700" letter-spacing="1.7" fill="#c4ffec">ALPHA FERMÉE · SUR INVITATION</text>
+    <text x="365" y="297" font-size="12" letter-spacing="2" fill="#99b4c2">ANDROID + NAVIGATEUR</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="341" rx="23.5" fill="none" stroke="#adc8cc" stroke-opacity=".16"/>
+</svg>

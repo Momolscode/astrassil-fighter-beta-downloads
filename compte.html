@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'; script-src 'sha256-kTjGRxCKhyurzhui+8/3a384O8UmYrzX94/h2odUzXA='; style-src 'unsafe-inline'"><title>Ouvrir mon compte — Astrassil</title><style>:root{color-scheme:dark;font:16px/1.5 system-ui,sans-serif;background:#081422;color:#edf6ff}body{margin:0;padding:24px 16px}main{max-width:480px;margin:12vh auto}h1{font-size:1.8rem}a{display:flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:48px;padding:12px;border-radius:10px;background:#99f0cd;color:#071827;text-align:center;text-decoration:none;font-weight:700}a:focus-visible{outline:3px solid #ffe69b;outline-offset:4px}</style></head><body><main><h1>Votre compte Astrassil</h1><p id="account-relay-status" role="status" aria-live="polite">Le navigateur ouvre votre compte. Si rien ne se passe, utilisez ce bouton.</p><a id="account-relay-link" href="https://aberdeen-kansas-tour-lower.trycloudflare.com/connexion" rel="noopener noreferrer">Ouvrir mon compte</a><noscript><p>Utilisez le bouton pour ouvrir la connexion, puis choisissez « Mot de passe oublié ? » si nécessaire.</p></noscript></main><script>(() => {
+  const destinations = Object.freeze({
+    '': 'https://aberdeen-kansas-tour-lower.trycloudflare.com/connexion',
+    '#inscription': 'https://aberdeen-kansas-tour-lower.trycloudflare.com/connexion',
+    '#recuperation': 'https://aberdeen-kansas-tour-lower.trycloudflare.com/connexion#recuperation'
+  });
+  const status = document.getElementById('account-relay-status');
+  const link = document.getElementById('account-relay-link');
+  const validPage = location.protocol === 'https:' && location.origin === 'https://momolscode.github.io'
+    && location.pathname === '/astrassil-fighter-beta-downloads/compte.html' && location.search === '';
+  const target = Object.hasOwn(destinations, location.hash) ? destinations[location.hash] : null;
+  if (!validPage || !target) {
+    status.textContent = 'Ce lien n’est pas reconnu. Ouvrez votre compte avec le bouton ci-dessous.';
+    return;
+  }
+  link.href = target;
+  link.textContent = location.hash === '#recuperation' ? 'Retrouver mon mot de passe' : 'Ouvrir mon compte';
+  status.textContent = 'Ouverture de votre compte Astrassil…';
+  location.replace(target);
+})();</script></body></html>

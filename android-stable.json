@@ -7,7 +7,7 @@
   "sha256": "53e161e03cef2f082673b53532f688e43d5536de53cf7518c52a27320e83bcfa",
   "size": 12205400,
   "apkURL": "https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.7-code21/astrassil-fighter-0.6.7-alpha-fermee.21-code21-release-signe.apk",
-  "clientRevisionSHA256": "8c5fbafd673344d0844ea7d63321d4ab3216a343c545f4b95af0baee3de8b217",
+  "clientRevisionSHA256": "ef56537231a5ffb6e472a37b61721699ffabe6e9537fa5cc830c7b0310898ae1",
   "requiresNativeUpdate": false,
   "compatibleCodes": [
     14,
@@ -17,5 +17,5 @@
     20,
     21
   ],
-  "publishedAtUTC": "2026-11-01T15:25:19Z"
+  "publishedAtUTC": "2026-11-01T21:53:33Z"
 }

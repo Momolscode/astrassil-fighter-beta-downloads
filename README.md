@@ -7,7 +7,7 @@
   &nbsp; · &nbsp;
   <a href="https://astrassil.tail2edb90.ts.net/jeu/"><strong>▶ JOUER DANS LE NAVIGATEUR</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.7-code21/astrassil-fighter-0.6.7-alpha-fermee.21-code21-release-signe.apk"><strong>↓ APK ANDROID</strong></a>
+  <a href="https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.8-code22/astrassil-fighter-0.6.8-alpha-fermee.22-code22-release-signe.apk"><strong>↓ APK ANDROID</strong></a>
 </p>
 
 <p align="center"><strong>Une trajectoire. Des failles. Tout un ciel à rallumer.</strong><br>Un jeu d’arcade spatial sur Android et navigateur.</p>
@@ -32,22 +32,22 @@ En coop, un groupe joue une seule expédition à la fois. Les déblocages sont v
 
 **L’accès exige une invitation personnelle du propriétaire. Télécharger l’application ne crée pas de droit d’accès.**
 
-1. Installez l’[APK21 Android signé](https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.7-code21/astrassil-fighter-0.6.7-alpha-fermee.21-code21-release-signe.apk) ou ouvrez [Mon compte](https://astrassil.tail2edb90.ts.net/connexion) pour jouer dans le navigateur.
-2. Au lancement de l’APK21, votre appareil reconnu retrouve automatiquement le compte. Sinon, Google s’ouvre dans le navigateur système pour votre choix et votre validation, puis vous revenez dans l’application. Après annulation, **« Continuer avec Google »** reste disponible.
+1. Installez l’[APK22 Android signé](https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.8-code22/astrassil-fighter-0.6.8-alpha-fermee.22-code22-release-signe.apk) ou ouvrez [Mon compte](https://astrassil.tail2edb90.ts.net/connexion) pour jouer dans le navigateur.
+2. Au lancement de l’APK22, votre appareil reconnu retrouve automatiquement le compte. Sinon, Google s’ouvre dans le navigateur système pour votre choix et votre validation, puis vous revenez dans l’application. Après annulation, **« Continuer avec Google »** reste disponible.
 3. Pour un premier accès, saisissez votre **invitation personnelle** avant de continuer avec Google. Choisissez ensuite vos identifiants Astrassil et complétez votre fiche joueur avant d’ouvrir le menu. Une reconnexion au même compte ne demande pas une nouvelle invitation.
 4. Conservez la [page officielle](https://momolscode.github.io/astrassil-fighter-beta-downloads/) : elle réunit les liens actuels, le téléchargement et le guide.
 
 Si votre Google n’est pas encore lié à votre compte Astrassil existant, associez-le explicitement depuis ce compte dans le navigateur avant de l’utiliser dans l’APK. Une adresse e-mail identique ne fusionne jamais deux comptes.
 
-**Vous utilisez encore le code 19 ou 20 ?** Installez la mise à jour vers le code 21 par-dessus l’application, sans désinstaller ni effacer ses données. Les données locales existantes sont conservées. Sur un appareil neuf, reconnectez-vous au même compte, puis vérifiez la copie cloud dans **Compte et sauvegarde** et confirmez sa restauration. La connexion seule ne restaure pas automatiquement la progression locale.
+**Vous utilisez encore le code 19, 20 ou 21 ?** Installez la mise à jour vers le code 22 par-dessus l’application, sans désinstaller ni effacer ses données. Les données locales existantes sont conservées. Sur un appareil neuf, reconnectez-vous au même compte, puis vérifiez la copie cloud dans **Compte et sauvegarde** et confirmez sa restauration. La connexion seule ne restaure pas automatiquement la progression locale.
 
 ## Android et mises à jour
 
-**APK actuelle : 0.6.7-alpha-fermee.21 · code 21 · paquet `com.unum.astrassil`**
+**APK actuelle : 0.6.8-alpha-fermee.22 · code 22 · paquet `com.unum.astrassil`**
 
 Les correctifs Web compatibles sont chargés depuis le serveur. Un nouveau conteneur APK s’installe **manuellement**, en conservant l’application et ses données. Le certificat de signature est identique aux versions précédentes. Ce paquet n’embarque pas un jeu complet hors ligne et ne s’installe pas silencieusement.
 
-Le paquet est construit, signé et vérifié. **Aucun essai du code 21 sur téléphone physique n’est revendiqué.**
+Le paquet est construit, signé et vérifié. **Aucun essai du code 22 sur téléphone physique n’est revendiqué.**
 
 <details>
 <summary>Vérifier le fichier Android</summary>
@@ -60,7 +60,7 @@ SHA-256 :
 53e161e03cef2f082673b53532f688e43d5536de53cf7518c52a27320e83bcfa
 ```
 
-[Voir la version Android sur GitHub](https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/tag/alpha-fermee-0.6.7-code21)
+[Voir la version Android sur GitHub](https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/tag/alpha-fermee-0.6.8-code22)
 
 </details>
 

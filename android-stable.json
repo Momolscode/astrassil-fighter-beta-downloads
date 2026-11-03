@@ -2,11 +2,11 @@
   "schema": "astrassil-android-stable/1",
   "packageId": "com.unum.astrassil",
   "certificateSHA256": "10b204a2111deba2014ecd0268cadf50f3fcb4a7e2873acb44543dbb374209f5",
-  "versionCode": 21,
-  "versionName": "0.6.7-alpha-fermee.21",
-  "sha256": "53e161e03cef2f082673b53532f688e43d5536de53cf7518c52a27320e83bcfa",
+  "versionCode": 22,
+  "versionName": "0.6.8-alpha-fermee.22",
+  "sha256": "911913adecd3d36f2830ebfa419c46832f29979517a25c67c25b12f1b7619a1a",
   "size": 12205400,
-  "apkURL": "https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.7-code21/astrassil-fighter-0.6.7-alpha-fermee.21-code21-release-signe.apk",
+  "apkURL": "https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.8-code22/astrassil-fighter-0.6.8-alpha-fermee.22-code22-release-signe.apk",
   "clientRevisionSHA256": "f95b5e1ceb611d8c7b1d9be093f9b2a11e8e046c8e2380e143ad00dcfbf529ed",
   "requiresNativeUpdate": false,
   "compatibleCodes": [
@@ -15,7 +15,8 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
-  "publishedAtUTC": "2026-11-03T11:05:08Z"
+  "publishedAtUTC": "2026-11-03T11:41:39Z"
 }

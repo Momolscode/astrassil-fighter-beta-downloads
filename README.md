@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://momolscode.github.io/astrassil-fighter-beta-downloads/"><strong>✦ PAGE OFFICIELLE</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://aberdeen-kansas-tour-lower.trycloudflare.com/jeu/"><strong>▶ JOUER DANS LE NAVIGATEUR</strong></a>
+  <a href="https://astrassil.tail2edb90.ts.net/jeu/"><strong>▶ JOUER DANS LE NAVIGATEUR</strong></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.7-code21/astrassil-fighter-0.6.7-alpha-fermee.21-code21-release-signe.apk"><strong>↓ APK ANDROID</strong></a>
 </p>
@@ -32,7 +32,7 @@ En coop, un groupe joue une seule expédition à la fois. Les déblocages sont v
 
 **L’accès exige une invitation personnelle du propriétaire. Télécharger l’application ne crée pas de droit d’accès.**
 
-1. Installez l’[APK21 Android signé](https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.7-code21/astrassil-fighter-0.6.7-alpha-fermee.21-code21-release-signe.apk) ou ouvrez [Mon compte](https://aberdeen-kansas-tour-lower.trycloudflare.com/connexion) pour jouer dans le navigateur.
+1. Installez l’[APK21 Android signé](https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/download/alpha-fermee-0.6.7-code21/astrassil-fighter-0.6.7-alpha-fermee.21-code21-release-signe.apk) ou ouvrez [Mon compte](https://astrassil.tail2edb90.ts.net/connexion) pour jouer dans le navigateur.
 2. Au lancement de l’APK21, votre appareil reconnu retrouve automatiquement le compte. Sinon, Google s’ouvre dans le navigateur système pour votre choix et votre validation, puis vous revenez dans l’application. Après annulation, **« Continuer avec Google »** reste disponible.
 3. Pour un premier accès, saisissez votre **invitation personnelle** avant de continuer avec Google. Choisissez ensuite vos identifiants Astrassil et complétez votre fiche joueur avant d’ouvrir le menu. Une reconnexion au même compte ne demande pas une nouvelle invitation.
 4. Conservez la [page officielle](https://momolscode.github.io/astrassil-fighter-beta-downloads/) : elle réunit les liens actuels, le téléchargement et le guide.

@@ -28,6 +28,16 @@
 
 En coop, un groupe joue une seule expédition à la fois. Les déblocages sont validés par le serveur, séparément de la campagne solo. La coop ne verse actuellement **ni XP ni écus**. Elle ne constitue pas une campagne solo complète partagée, un monde persistant ou un ensemble de modes multijoueurs.
 
+## Page d’accès et test Google Play — 11 novembre 2026
+
+L’accueil distingue les joueurs déjà inscrits et les nouveaux joueurs, avec des accès directs au navigateur, à l’APK signée et au test fermé Google Play. Les aides d’installation et de sauvegarde sont regroupées dans des rubriques déroulantes. Les images d’accueil sont allégées ; leurs originaux restent conservés.
+
+Le [test fermé Google Play](https://play.google.com/apps/testing/com.unum.astrassil) utilise le paquet `com.unum.astrassil`. Il est réservé aux comptes autorisés sur cette piste. Rejoindre le test Play ne crée pas un compte Astrassil.
+
+**L’inscription libre sans invitation reste à activer sur le serveur du jeu.** La refonte de ce site statique ne change ni l’authentification ni les droits des joueurs. La cible retenue est 13 ans et plus.
+
+Contrôles de structure : `node tests/check-landing.cjs`. La page a aussi été contrôlée dans un navigateur sans compte connecté aux largeurs 360, 390, 768 et 1440 pixels : liens, ancres, absence de débordement horizontal, images d’accueil, rubriques déroulantes et erreurs JavaScript. Cela ne constitue pas un test de partie ou de première inscription.
+
 ## Rejoindre l’alpha
 
 **L’accès exige une invitation personnelle du propriétaire. Télécharger l’application ne crée pas de droit d’accès.**
@@ -57,7 +67,7 @@ Taille : **12 205 400 octets**.
 SHA-256 :
 
 ```text
-53e161e03cef2f082673b53532f688e43d5536de53cf7518c52a27320e83bcfa
+911913adecd3d36f2830ebfa419c46832f29979517a25c67c25b12f1b7619a1a
 ```
 
 [Voir la version Android sur GitHub](https://github.com/Momolscode/astrassil-fighter-beta-downloads/releases/tag/alpha-fermee-0.6.8-code22)
